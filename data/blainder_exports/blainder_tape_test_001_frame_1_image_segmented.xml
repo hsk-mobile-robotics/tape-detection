@@ -1,0 +1,37 @@
+<annotation>
+    <folder>exports</folder>
+    <filename>blainder_tape_test_001_frame_1_image_alpha.png</filename>
+    <path>/home/yannic/projects/blainder-range-scanner/exports/blainder_tape_test_001_frame_1_image_alpha.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Material</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>28</ymin>
+            <xmax>319</xmax>
+            <ymax>239</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tape</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>28</xmin>
+            <ymin>49</ymin>
+            <xmax>209</xmax>
+            <ymax>121</ymax>
+        </bndbox>
+    </object>
+</annotation>
